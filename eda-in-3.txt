@@ -1,0 +1,1 @@
+Number of unique values in each column: {'Temperature': 366, 'Snowfall': 181, 'Visitors': 190, 'Rating': 5, 'Temperature_binned': 4, 'Snowfall_binned': 4, 'Visitors_binned': 4, 'Rating_binned': 4}
